@@ -5,10 +5,14 @@
 
 ### 构建步骤
 
-> $ mkdir myapp && cd myapp
-> $ yarn create umi
+```
+$ mkdir myapp && cd myapp
+$ yarn create umi
+```
 
 ### 运行
 
-> yarn
-> yarn start
+```
+$ yarn
+$ yarn start
+```
